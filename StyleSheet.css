@@ -1,0 +1,156 @@
+﻿body 
+{
+    margin: 10px; 
+    padding: 0px;
+    text-align: center; 
+}
+
+#DealContent {
+	width: 860px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border: 0px dashed #333;
+	background-color:#ffffff;
+	}
+
+#FreegoodsContent {
+	width: 1000px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border: 0px dashed #333;
+	background-color:#ffffff;
+	}
+
+#CustSalesContent {
+	width: 740px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+
+#ItemSalesContent {
+	width: 736px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+	
+#SampleTradeContent {
+	width: 918px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+	
+#SalesPipeLineContent {
+	width: 1024px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align: center; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+	
+#UpcomingDeliveryContent {
+	width: 888px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align: center; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+	
+#InvoicesContent {
+	width: 710px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align: center; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+
+#PriceContent {
+	width: 800px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align: center; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	font-family: Calibri;
+	}
+	
+#ItemHistoryContent {
+	width: 1260px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align: left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	font-family: Calibri;
+	}
+	
+#BHContent {
+	width: 1100px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+	
+#NextItemContent {
+	width: 760px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align: center; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+
+#Content {
+	width: 800px;
+	margin:  0px auto; /* Right and left margin widths set to "auto" */
+	text-align:left; /* Counteract to IE5/Win Hack */
+	padding: 2x;
+	border:0px dashed #333;
+	background-color:#ffffff;
+	}
+	
+#MainContent {
+width: 862px;
+margin: 0px auto auto auto; /* Right and left margin widths set to "auto" */
+text-align: center; /* Counteract to IE5/Win Hack */
+}
+
+#MainNewContent {
+width: 1056px;
+margin: 0px auto auto auto; /* Right and left margin widths set to "auto" */
+text-align: center; /* Counteract to IE5/Win Hack */
+}
+
+#MainNewContent1 {
+width: 1256px;
+margin: 0px auto auto auto; /* Right and left margin widths set to "auto" */
+text-align: center; /* Counteract to IE5/Win Hack */
+}
+	
+	#PanelContent 
+	{
+	    width: 826px;
+	    text-align: center;
+	}
+	
+.panel
+{
+    text-align: center; 
+}
+
+
